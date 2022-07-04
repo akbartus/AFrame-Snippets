@@ -56,5 +56,10 @@ This repo contains several snippets related to A-Frame used in Visual Studio Cod
     }
 }
 ```
+- "A-Frame Template" - the very first line; name of the snippet.
+- "prefix" - the word/phrase to be used to call snippet.
+- "body" - container, which holds all the code.
+- \t - tab. Several of them means several tabs.
+- "description" - description of the snippet.
 
 To test it, in Visual Studio Code write "aframe" or "mindar" and hit "enter".
