@@ -62,4 +62,4 @@ This repo contains several snippets related to A-Frame used in Visual Studio Cod
 - \t - tab. Several of them means several tabs.
 - "description" - description of the snippet.
 
-To test it, in Visual Studio Code write "aframe" or "mindar" and hit "enter".
+To test it, in Visual Studio Code write "aframe" or "mindar" and hit "enter". To create a new snippet, you can use the above-mentioned guidelines.
